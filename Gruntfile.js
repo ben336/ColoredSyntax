@@ -13,7 +13,9 @@ module.exports = function (grunt) {
   require('load-grunt-tasks')(grunt);
 
   // Time how long tasks take. Can help when optimizing build times
-  require('time-grunt')(grunt);
+  //this seems to cause build to hang.  Investigate later
+  //or only use to optimize
+  //require('time-grunt')(grunt);
 
   // Define the configuration for all the tasks
   grunt.initConfig({
