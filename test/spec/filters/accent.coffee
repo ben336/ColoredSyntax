@@ -10,6 +10,15 @@ describe 'Filter: accent', () ->
   beforeEach inject ($filter) ->
     accent = $filter 'accent'
 
-  it 'should return the input prefixed with "accent filter:"', () ->
-    text = 'angularjs'
-    expect(accent text).toBe ('accent filter: ' + text)
+  it 'It should remove strings without Accent in them"', () ->
+    options = [
+      {label: "Accent1"}
+      {label: "abc"}
+      {label: "Accent2"}
+      {label: "sjlfs"}
+      {label: "Accen"}
+    ]
+    filtered = accent options
+
+    console.log options, filtered
+    expect(filtered.length).toBe 2

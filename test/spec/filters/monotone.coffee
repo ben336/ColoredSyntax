@@ -10,6 +10,14 @@ describe 'Filter: monotone', () ->
   beforeEach inject ($filter) ->
     monotone = $filter 'monotone'
 
-  it 'should return the input prefixed with "monotone filter:"', () ->
-    text = 'angularjs'
-    expect(monotone text).toBe ('monotone filter: ' + text)
+  it 'It should remove strings with accent in them"', () ->
+    options = [
+      {label:"Accent1"}
+      {label: "abc"}
+      {label: "Accent2"}
+      {label:"sjlfs"}
+      {label: "Accen"}
+    ]
+    filtered = monotone options
+    expect(filtered.length).toBe 3
+
