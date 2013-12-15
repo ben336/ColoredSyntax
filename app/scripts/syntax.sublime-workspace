@@ -1,0 +1,1465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-radi",
+				"border-top-right-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"comm",
+				"commitAll"
+			],
+			[
+				"rever",
+				"revertAll"
+			],
+			[
+				"mess",
+				"messagedisplaybox"
+			],
+			[
+				"Messag",
+				"MessageObject"
+			],
+			[
+				"message",
+				"messageform"
+			],
+			[
+				"create",
+				"createNewMosaic"
+			],
+			[
+				"USE",
+				"USER2"
+			],
+			[
+				"getU",
+				"getUserOrCreate"
+			],
+			[
+				"addUse",
+				"addUserAndCreateMosaic"
+			],
+			[
+				"getUs",
+				"getUserOrCreate"
+			],
+			[
+				"success",
+				"success3"
+			],
+			[
+				"ensure",
+				"ensureAuthenticated"
+			],
+			[
+				"new",
+				"newMessage"
+			],
+			[
+				"mosa",
+				"mosaicpage"
+			],
+			[
+				"M",
+				"MESSAGE2"
+			],
+			[
+				"ME",
+				"MESSAGE2"
+			],
+			[
+				"Mes",
+				"MESSAGE2"
+			],
+			[
+				"U",
+				"USER"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"IN",
+				"INTEGER"
+			],
+			[
+				"toBe",
+				"toBeFalsy"
+			],
+			[
+				"handl",
+				"handleError"
+			],
+			[
+				"re",
+				"removeByID"
+			],
+			[
+				"passp",
+				"passport"
+			],
+			[
+				"mu",
+				"multiply"
+			],
+			[
+				"uni",
+				"unitMap"
+			],
+			[
+				"move",
+				"moveCursor"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"linenum",
+				"linenumDiv"
+			],
+			[
+				"getLine",
+				"getLineDiv"
+			],
+			[
+				"current",
+				"currentline"
+			],
+			[
+				"ca",
+				"calcFramework"
+			],
+			[
+				"lneLen",
+				"linelength"
+			],
+			[
+				"curren",
+				"currentline"
+			],
+			[
+				"cursor",
+				"cursorOffset"
+			],
+			[
+				"curr",
+				"currentline"
+			],
+			[
+				"indepen",
+				"independentCharts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.coffee",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Marked.sublime-build",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScriptNext"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"st coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"delet",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"ajvasc",
+				"Set Syntax: JavaScriptNext"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"set syn javasc",
+				"Set Syntax: JavaScriptNext"
+			],
+			[
+				"JAVAS",
+				"Set Syntax: JavaScriptNext"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"set syntax jav",
+				"Set Syntax: JavaScriptNext"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"set syntax jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: Java"
+			],
+			[
+				"synt javas",
+				"Set Syntax: JavaScriptNext"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insg",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set Syntax Mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"setSyntax Mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack di",
+				"Package Control: Disable Package"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"Git add",
+				"Git: Add Current File"
+			],
+			[
+				"Git Pull",
+				"Git: Pull"
+			],
+			[
+				"Set Sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"Git Push",
+				"Git: Push"
+			],
+			[
+				"Git Comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax Css",
+				"Set Syntax: CSS"
+			],
+			[
+				"snipp",
+				"Snippet: html_base"
+			],
+			[
+				"Package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"subli",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"Sublime",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"SetSyntax Mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set syntax Py",
+				"Set Syntax: Python"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack con re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package c re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pa c i",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"sf",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"SF",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"SFTP",
+				"SFTP: Edit Remote Mapping…"
+			],
+			[
+				"sftp br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Sftp brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"SFt Bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Pc inst",
+				"Package Control: Install Package"
+			],
+			[
+				"zen as you",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"set syntax Html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Zen ",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"pc inst",
+				"Package Control: Install Package"
+			],
+			[
+				"PCi",
+				"Package Control: Install Package"
+			],
+			[
+				"Mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pc ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Co",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 360.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ben/dotfiles/vim/vim.symlink/autoload/pathogen.vim",
+		"/Users/ben/dotfiles/vim/vimrc.symlink",
+		"/Users/ben/dotfiles/symlink.py",
+		"/Users/ben/Code/blendconf/singlepageapps/blendsongs/app/js/services.js",
+		"/Users/ben/Code/blendconf/singlepageapps/blendsongs/app/css/app.css",
+		"/Users/ben/Code/blendconf/singlepageapps/blendsongs/app/js/controllers.js",
+		"/Users/ben/Code/blendconf/singlepageapps/blendsongs/app/partials/songs.html",
+		"/Users/ben/Code/blendconf/singlepageapps/blendsongs/app/index.html",
+		"/Users/ben/Code/blendconf/singlepageapps/blendsongs/config.coffee",
+		"/Users/ben/Code/blendconf/singlepageapps/notes.md",
+		"/Users/ben/Dropbox/Resumes/latex/fontawesome.sty",
+		"/Users/ben/Dropbox/Resumes/latex/tccv.cls",
+		"/Users/ben/Code/Experiments/goapp/hello/hello.go",
+		"/Users/ben/Code/Experiments/goapp/app.yaml",
+		"/Users/ben/Code/Experiments/docpad/twitter-bootstrap.docpad/src/documents/index.html",
+		"/Users/ben/Code/Experiments/docpad/twitter-bootstrap.docpad/src/documents/posts/posts.html.eco",
+		"/Users/ben/Code/Experiments/docpad/twitter-bootstrap.docpad/src/documents/pages/ourstory.html.md",
+		"/Users/ben/Code/Experiments/docpad/twitter-bootstrap.docpad/src/documents/styles/font-awesome.css.styl",
+		"/Users/ben/Code/Experiments/docpad/twitter-bootstrap.docpad/src/documents/pages/foodsafety.html.md",
+		"/Users/ben/Code/Experiments/docpad/twitter-bootstrap.docpad/src/documents/pages/contactus.html.md",
+		"/Users/ben/Code/Experiments/docpad/twitter-bootstrap.docpad/out/index.html",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-08-16-nexus-7-2013-review.markdown",
+		"/Users/ben/Blog/benmccormick/_config.yml",
+		"/Users/ben/Blog/benmccormick/source/about/index.markdown",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-08-15-somewhat-open.markdown",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-08-11-user-centered-design-review.markdown",
+		"/Users/ben/Dropbox/blog_drafts/2013-08-13-nexus-7-2013-review.markdown",
+		"/Users/ben/Sites/js/updater.js",
+		"/Users/ben/Code/Experiments/Golang/hello.go",
+		"/Users/ben/Code/Experiments/dannyclasses/lesson1/style2.css",
+		"/Users/ben/Code/Experiments/dannyclasses/lesson1/style.css",
+		"/Users/ben/Code/Experiments/dannyclasses/lesson1/index2.html",
+		"/Users/ben/Code/Experiments/dannyclasses/lesson1/index.html",
+		"/Users/ben/Code/Projects/Courage/assets/css/mosaicpage.styl",
+		"/Users/ben/Code/Projects/Courage/assets/css/mosaicform.styl",
+		"/Users/ben/Code/Projects/Courage/views/dialogs/mosaicdialog.jade",
+		"/Users/ben/Code/Projects/Courage/public/js/newMosaic.js",
+		"/Users/ben/Code/Projects/Courage/views/layout.jade",
+		"/Users/ben/Code/Projects/Courage/public/js/util/ko-extensions.js",
+		"/Users/ben/Code/Projects/Courage/public/js/mosaicPage.js",
+		"/Users/ben/Code/Projects/Courage/assets/css/app.styl",
+		"/Users/ben/Code/Projects/Courage/assets/css/colors.styl",
+		"/Users/ben/Code/Projects/Courage/assets/css/mixins/dialogs.styl",
+		"/Users/ben/Code/Projects/Courage/assets/css/mixins/buttons.styl",
+		"/Users/ben/Code/Projects/Courage/assets/css/toolbar.styl",
+		"/Users/ben/Code/Projects/Courage/app.js",
+		"/Users/ben/Code/Projects/Courage/assets/css/logo.styl",
+		"/Users/ben/Code/Projects/Courage/assets/css/mixins.styl",
+		"/Users/ben/Code/Projects/Courage/views/dialogs/displaymessagedialog.jade",
+		"/Users/ben/Code/Projects/Courage/src/routes/modelRoutes.js",
+		"/Users/ben/Code/Projects/Courage/assets/css/dialogs/messageviewdialog.styl",
+		"/Users/ben/Code/Projects/Courage/assets/css/dialogs/messagecreatedialog.styl",
+		"/Users/ben/Code/Projects/Courage/views/mosaicpage.jade",
+		"/Users/ben/Code/Projects/Courage/public/js/lib/knockout-validation.js",
+		"/Users/ben/Code/Projects/Courage/public/js/util/ko-extensions",
+		"/Users/ben/Code/Projects/Courage/src/routes/pageRoutes.js",
+		"/Users/ben/Code/Projects/Courage/gruntfile.js",
+		"/Users/ben/Code/Projects/Courage/spec/databaseconnect.spec.js",
+		"/Users/ben/Code/Projects/Courage/src/databaseconnect.js",
+		"/Users/ben/Code/Projects/Courage/db/schema.sql",
+		"/Users/ben/Code/Projects/Courage/views/mosaic.jade",
+		"/Users/ben/Code/Projects/Courage/views/messagedialog.jade",
+		"/Users/ben/Code/Projects/Courage/assets/css/typography.styl",
+		"/Users/ben/Code/Projects/Courage/src/passportconfig.js",
+		"/Users/ben/Code/Projects/Courage/src/config/passport.js",
+		"/Users/ben/Code/Projects/Courage/assets/css/accountpage.styl",
+		"/Users/ben/Code/Projects/Courage/views/account.jade",
+		"/Users/ben/Code/Projects/Courage/assets/css/login.styl",
+		"/Users/ben/Code/Projects/Courage/views/index.jade",
+		"/Users/ben/Code/Projects/Courage/public/css/styles.css",
+		"/Users/ben/Code/Projects/Courage/.gitignore",
+		"/Users/ben/Code/Projects/Courage/views/login.jade",
+		"/Users/ben/Code/Projects/Courage/package.json",
+		"/Users/ben/Code/Projects/Courage/docs/index.html",
+		"/Users/ben/Code/Projects/Courage/src/mosaic.js",
+		"/Users/ben/Code/Experiments/HelpTim/lessons/1linkedlist.md",
+		"/Users/ben/Code/Projects/Courage/src/util/security.js",
+		"/Users/ben/Code/Projects/Courage/src/routes/authRoutes.js",
+		"/Users/ben/Code/Projects/Courage/public/js/lib/knockout-mapping.js",
+		"/Users/ben/Code/Projects/Courage/src/errorHandler.js",
+		"/Users/ben/Code/Projects/Courage/spec/passportconfig.spec.js",
+		"/Users/ben/Code/Projects/Courage/src/config/dbsettings.js",
+		"/Users/ben/Code/Projects/Courage/public/js/test.js",
+		"/Users/ben/Code/Projects/Courage/public/js/lib/knockout.js",
+		"/Users/ben/Code/Projects/Courage/public/index.html",
+		"/Users/ben/Dropbox/Goals/typing.md",
+		"/Users/ben/Code/Projects/Courage/app.coffee",
+		"/Users/ben/Code/Projects/Courage/gruntfile.coffee",
+		"/Users/ben/Code/Projects/Courage/src/mosaic.coffee",
+		"/Users/ben/Code/Projects/Courage/assets/js/newMosaic.coffee",
+		"/Users/ben/Code/Projects/Courage/src/passportconfig.coffee",
+		"/Users/ben/Code/Projects/Courage/spec/databaseconnect.spec.coffee",
+		"/Users/ben/Code/Projects/Courage/src/databaseconnect.coffee",
+		"/Users/ben/Code/Projects/Courage/src/errorHandler.coffee",
+		"/Users/ben/Dropbox/Bible Notes/Romans/Romans3.md",
+		"/Users/ben/Code/Projects/Courage/spec/passportconfig.spec.coffee",
+		"/Users/ben/Dropbox/Teaching/Helping Tim/softengineeringprereqs.md",
+		"/Users/ben/Code/Projects/Courage/views/campaign.jade",
+		"/Users/ben/Code/Projects/Courage/assets/js/newCampaign.coffee",
+		"/Users/ben/Code/Projects/Courage/src/config/dbsettings.coffee",
+		"/Users/ben/Code/Projects/Courage/courage.sublime-project",
+		"/Users/ben/Code/Projects/Courage/config/dbsettings.js",
+		"/Users/ben/Code/Projects/Courage/node_modules/grunt-jasmine-node/tasks/jasmine-node-task.js",
+		"/Users/ben/Code/Projects/Courage/node_modules/grunt-jasmine-node/package.json",
+		"/Users/ben/Code/Projects/Courage/spec/dummy.spec.js",
+		"/Users/ben/Dropbox/Teaching/Bible Study/biblestudy5162013.md",
+		"/Users/ben/Code/Projects/Courage/src/passportconfig.coffee.js",
+		"/Users/ben/Dropbox/Bible Notes/Matthew/Matthew28.md",
+		"/Users/ben/Code/Projects/Courage/config/dbconfig.js",
+		"/Users/ben/Code/Projects/Courage/node_modules/.bin/jade",
+		"/Users/ben/Code/Projects/Courage/node_modules/jade/testing/index.jade",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/JavaScriptNext.sublime-settings",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-03-11-creating-a-build-system-for-a-coffeescript-project.markdown",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Jade.sublime-settings",
+		"/Users/ben/Code/Projects/Courage/views/layout.ejs",
+		"/Users/ben/Code/Projects/scratchcoffee/src/scripts/parser/eqTreeBuilder.coffee",
+		"/Users/ben/Code/Projects/scratchcalc/editor/editor.js",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-01-08-javascript-explained-closures.markdown",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-05-04-irreplaceable.markdown",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-01-12-javascript-explained-object-oriented-javascript.markdown",
+		"/Users/ben/Code/Projects/CodeJam/2013Q/Palindrome.java",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ben/Code/Projects/CodeJam/coffee/efficientpassword.coffee",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-02-23-coffeescript-is-great.markdown",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-04-06-a-new-look.markdown",
+		"/Users/ben/Blog/benmccormick/source/_posts/2013-01-01-sublime-text-for-javascript-configuration.markdown"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\bemccorm\\Documents\\bridges-theme"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<p>",
+			"logoh",
+			"songlist",
+			"group",
+			"bordr",
+			"<button>",
+			"<span>",
+			"<li class=\"media\">",
+			"col",
+			"div class=\"media-object\"",
+			"<div>",
+			"<a href=\"#\">",
+			"<li>",
+			"li",
+			"envelope",
+			"textheight",
+			"GitHub",
+			"Vitae",
+			"md",
+			"table",
+			"one",
+			"mii",
+			"address",
+			"ateObj",
+			"danny",
+			"$(\"#Danny\")",
+			"Danny",
+			"danny",
+			"}\n",
+			"month",
+			"?",
+			"width:600px",
+			"grey",
+			"$darkgrey",
+			"$black",
+			"$red",
+			"margin",
+			"reset();",
+			"reset",
+			"protectedOb",
+			"protectedObs",
+			"mosaicDat",
+			".reset",
+			".reset(",
+			"commit",
+			"observable",
+			":",
+			"revert",
+			",",
+			"commit",
+			"this",
+			"=",
+			":",
+			"value:",
+			"messageData",
+			"this",
+			"createNewMessage",
+			"this.di",
+			"dialog",
+			"handleNewMessage",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"handleNewMessage",
+			"messagelist",
+			"lastname",
+			".sidebar",
+			"tbutton",
+			"#mosaicform",
+			"mosaicform",
+			"$grey",
+			":",
+			"red;",
+			"}",
+			"{",
+			"p ",
+			"p",
+			"grey",
+			"$white",
+			"'",
+			"lor:",
+			"|",
+			"messageList",
+			"USER",
+			"onsole",
+			"console",
+			"return db.",
+			"else",
+			"email",
+			"  email",
+			"passMosaicToCallback",
+			"user",
+			"ssobjectToCa",
+			"createobject",
+			"mosaic",
+			"Mosaic",
+			"mosaic",
+			"Mosaic",
+			"mosaic",
+			"Mosaic",
+			"mosaic",
+			"Mosaic",
+			"mosaic",
+			"createMosaic",
+			"db.",
+			"\n ",
+			"addUserAndCreateMosaic",
+			"userSearchResult",
+			"users",
+			"results",
+			"success",
+			"success2",
+			"success3",
+			"callback",
+			", callback)",
+			"passport",
+			"ensur",
+			"ensureAuth",
+			"auth",
+			"AuthRoutes",
+			"ddModelRoute",
+			"'",
+			"mosaicKey",
+			"newMessage",
+			"mosaicData",
+			" handleNewMosaic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" Ant",
+			"HTML",
+			"Javascript",
+			"Coffeescript",
+			"Sublime",
+			"\"",
+			",\"\" ,",
+			"[\"\" ,",
+			",\"\" ]",
+			",\"\" ,",
+			"5",
+			"4",
+			"\"",
+			"\\'",
+			"\"",
+			"self.numVal",
+			"'",
+			"Wordpress",
+			"delimiter",
+			"span3 resume",
+			"span2",
+			"span1",
+			"container",
+			"row",
+			"span3 resume",
+			"fixed",
+			"ok",
+			"row-fixed",
+			"span6 resume-section",
+			"gos/html5.",
+			"bootstrap"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 46.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"project": "syntax.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.coff",
+				"app/scripts/app.coffee"
+			],
+			[
+				"inde",
+				"documents/index.html"
+			],
+			[
+				"def",
+				"layouts/default.html.eco"
+			],
+			[
+				"posts",
+				"documents/posts/posts.html.eco"
+			],
+			[
+				"fontawes",
+				"documents/styles/font-awesome.css.styl"
+			],
+			[
+				"",
+				"2013-04-23-book-review-javascript-testing-with-Jasmine.markdown"
+			],
+			[
+				"resul",
+				"results.json"
+			],
+			[
+				"php",
+				"pushups.php"
+			],
+			[
+				"jss",
+				"js/updater.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"messag",
+				"views/dialogs/displaymessagedialog.jade"
+			],
+			[
+				"messageview",
+				"assets/css/dialogs/messageviewdialog.styl"
+			],
+			[
+				"mosaicpage",
+				"assets/css/mosaicpage.styl"
+			],
+			[
+				"mosaicdi",
+				"views/dialogs/mosaicdialog.jade"
+			],
+			[
+				"color",
+				"assets/css/colors.styl"
+			],
+			[
+				"app",
+				"assets/css/app.styl"
+			],
+			[
+				"buttons",
+				"assets/css/mixins/buttons.styl"
+			],
+			[
+				"mosaic.styl",
+				"assets/css/mosaicform.styl"
+			],
+			[
+				"dialog",
+				"assets/css/mixins/dialogs.styl"
+			],
+			[
+				"logo",
+				"assets/css/logo.styl"
+			],
+			[
+				"app.s",
+				"assets/css/app.styl"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"tool",
+				"assets/css/toolbar.styl"
+			],
+			[
+				"mixin",
+				"assets/css/mixins/buttons.styl"
+			],
+			[
+				"mix",
+				"assets/css/mixins.styl"
+			],
+			[
+				"mosaicdia",
+				"views/dialogs/mosaicdialog.jade"
+			],
+			[
+				"colors",
+				"assets/css/colors.styl"
+			],
+			[
+				"mosaic",
+				"assets/css/mosaicform.styl"
+			],
+			[
+				"ko",
+				"public/js/util/ko-extensions.js"
+			],
+			[
+				"layout",
+				"views/layout.jade"
+			],
+			[
+				"mixi",
+				"assets/css/mixins.styl"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"mosaicpag",
+				"assets/css/mosaicpage.styl"
+			],
+			[
+				"modelr",
+				"src/routes/modelRoutes.js"
+			],
+			[
+				"dialogs",
+				"views/dialogs/messagedialog.jade"
+			],
+			[
+				"mosaic.st",
+				"assets/css/mosaicform.styl"
+			],
+			[
+				"newm",
+				"public/js/newMosaic.js"
+			],
+			[
+				"model",
+				"src/routes/modelRoutes.js"
+			],
+			[
+				"rout",
+				"src/routes/pageRoutes.js"
+			],
+			[
+				"grunt",
+				"gruntfile.js"
+			],
+			[
+				"styl",
+				"assets/css/mixins.styl"
+			],
+			[
+				"mosaicform",
+				"assets/css/mosaicform.styl"
+			],
+			[
+				"mosa",
+				"public/js/newMosaic.js"
+			],
+			[
+				"layo",
+				"views/layout.jade"
+			],
+			[
+				"layou",
+				"views/layout.jade"
+			],
+			[
+				"data",
+				"spec/databaseconnect.spec.js"
+			],
+			[
+				"dat",
+				"src/databaseconnect.js"
+			],
+			[
+				"sql",
+				"db/schema.sql"
+			],
+			[
+				"too",
+				"assets/css/toolbar.styl"
+			],
+			[
+				"colo",
+				"assets/css/colors.styl"
+			],
+			[
+				"messa",
+				"views/messagedialog.jade"
+			],
+			[
+				"mosaicstyl",
+				"assets/css/mosaicform.styl"
+			],
+			[
+				"new",
+				"public/js/newMosaic.js"
+			],
+			[
+				"nes",
+				"public/js/newMosaic.js"
+			],
+			[
+				"rotu",
+				"src/routes/modelRoutes.js"
+			],
+			[
+				"mosaic.js",
+				"public/js/newMosaic.js"
+			],
+			[
+				"mosaic.sty",
+				"assets/css/mosaicform.styl"
+			],
+			[
+				"jade",
+				"views/mosaic.jade"
+			],
+			[
+				"typ",
+				"assets/css/typography.styl"
+			],
+			[
+				"passp",
+				"src/passportconfig.js"
+			],
+			[
+				"acco",
+				"views/account.jade"
+			],
+			[
+				"to",
+				"assets/css/toolbar.styl"
+			],
+			[
+				"logi",
+				"views/login.jade"
+			],
+			[
+				".",
+				".gitignore"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"css",
+				"public/css/styles.css"
+			],
+			[
+				"styles",
+				"public/css/styles.css"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"grun",
+				"gruntfile.js"
+			],
+			[
+				"spec",
+				"spec/databaseconnect.spec.js"
+			],
+			[
+				"ne",
+				"public/js/newMosaic.js"
+			],
+			[
+				"databa",
+				"spec/databaseconnect.spec.js"
+			],
+			[
+				".jade",
+				"views/mosaicpage.jade"
+			],
+			[
+				"daspec",
+				"spec/databaseconnect.spec.js"
+			],
+			[
+				"config",
+				"src/config/dbsettings.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"newmosa",
+				"public/js/newMosaic.js"
+			],
+			[
+				"err",
+				"src/errorHandler.js"
+			],
+			[
+				"mosai",
+				"src/mosaic.js"
+			],
+			[
+				"error",
+				"src/errorHandler.js"
+			],
+			[
+				"specjs",
+				"spec/passportconfig.spec.js"
+			],
+			[
+				"passport",
+				"src/passportconfig.js"
+			],
+			[
+				"pass",
+				"src/passportconfig.coffee"
+			],
+			[
+				"m",
+				"views/mosaic.jade"
+			],
+			[
+				"login",
+				"views/login.jade"
+			],
+			[
+				"db",
+				"spec/databaseconnect.spec.coffee"
+			],
+			[
+				"mos",
+				"assets/js/newMosaic.coffee"
+			],
+			[
+				"sq",
+				"db/schema.sql"
+			],
+			[
+				"dbse",
+				"src/config/dbsettings.coffee"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"dum",
+				"spec/dummy.spec.js"
+			],
+			[
+				"settin",
+				"config/dbsettings.js"
+			],
+			[
+				"account",
+				"views/account.jade"
+			],
+			[
+				"ind",
+				"views/index.jade"
+			],
+			[
+				"sublime",
+				"courage.sublime-project"
+			],
+			[
+				".ejs",
+				"views/account.ejs"
+			],
+			[
+				"ejs",
+				"views/index.ejs"
+			],
+			[
+				"medium",
+				"benmccormick_blog_posts/2012-12-25-medium-the-end-of-history-and-the-last-website.markdown"
+			],
+			[
+				"trell",
+				"benmccormick_blog_posts/_posts/2012-12-20-awesome-software-trello.markdown"
+			],
+			[
+				"key",
+				"benmccormick_blog_posts/_posts/2012-12-30-sublime-text-for-javascript-keyboard-shortcuts.markdown"
+			],
+			[
+				"keyb",
+				"benmccormick_blog_posts/_posts/2012-12-30-sublime-text-for-javascript-keyboard-shortcuts.markdown"
+			],
+			[
+				"treebui",
+				"test/treebuilder-test.js"
+			],
+			[
+				"token",
+				"test/tokenizer-test.js"
+			],
+			[
+				"edito",
+				"editor/editor.js"
+			],
+			[
+				"eqparse",
+				"parser/eqParser.js"
+			],
+			[
+				"scanner",
+				"parser/eqScanner.js"
+			],
+			[
+				"table",
+				"parser/tablePlaceHolder.js"
+			],
+			[
+				"test",
+				"test/scanner-test.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"bible",
+				"/C/Users/bemccorm/SkyDrive/Bible Notes/Bible.sublime-project"
+			],
+			[
+				"",
+				"/C/Users/bemccorm/Documents/ScratchCalc/scratchcalc/scratchcalc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

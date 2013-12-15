@@ -1,0 +1,27 @@
+<div class="row">
+  <div class="col-xs-6 ">
+    <form role="form">
+      <div class="row">
+        <div class="col-xs-6">
+          <div class="form-group" ng-repeat=" color in colors  | monotone">
+            <label for="{{color.label}}-input">{{color.label}}</label>
+            <input type="text" class="form-control" 
+            id="{{color.label}}-input" ng-model="color.color">
+            <div color-block=color></div>
+          </div>
+        </div>
+        <div class="col-xs-6">
+          <div class="form-group" ng-repeat=" color in colors  | accent">
+            <label for="{{color.label}}-input">{{color.label}}</label>
+            <input type="text" class="form-control" 
+            id="{{color.label}}-input" ng-model="color.color">
+            <div color-block=color></div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="col-xs-6">
+    <div ng-include="'views/langs/javascriptBlock.html'"></div>
+  </div>
+</div>
